@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "tracing": true,
+    "debug": true,
+    "warnings": true
+  }
+}
